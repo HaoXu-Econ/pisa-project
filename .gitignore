@@ -1,0 +1,14 @@
+# PISA data: large, and the OECD terms of use forbid redistributing the 2025 public-use files
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
